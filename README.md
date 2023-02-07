@@ -3,10 +3,10 @@
 Hej jag har skrivit text ifrån GitHub
 
 
-# Nu skrev jag lite text lokalt
+Nu skrev jag lite text lokalt
 
-# Nu skriver jag bättre text 
+Nu skriver jag bättre text 
 
 
-# Skrv på min branch
+Skrv på min branch
 
